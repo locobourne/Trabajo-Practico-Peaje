@@ -1,4 +1,5 @@
-# trabajo_practico_peaje
+# Trabajo-Practico-Peaje
+
 
 🚗 Sistema de Gestión de Peaje
 Este repositorio contiene un proyecto en Python para la gestión de un sistema de peaje. Se implementan estructuras de datos y algoritmos para organizar y procesar información sobre vehículos y pagos.
