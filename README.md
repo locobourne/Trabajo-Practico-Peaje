@@ -11,3 +11,7 @@ Menús interactivos para la gestión del sistema.
 Uso de funciones constructoras e inicializadores de objetos para modelar vehículos y transacciones.
 Contadores para el registro de ingresos y tránsito.
 Guardado y levantamiento de datos para persistencia de información.
+
+
+## Autor: 
+### Maximo Castillo
